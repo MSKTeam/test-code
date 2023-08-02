@@ -1967,3 +1967,4 @@ img[data-src]:not(.lazyloaded){opacity:0;transform:scale(0.9)}img[src]{opacity:1
 @media screen and (min-width:1024px){.m-d-none-bookmark svg{display:none}.r30-mobile{border-radius:30px}}
 .textcenter{text-align:center}
 .menu-item.svg14.flex.aic.m-d-none-bookmark svg{color:white}
+.tac.c-fff a svg{margin-left:1.25px;margin-right:1.25px}
